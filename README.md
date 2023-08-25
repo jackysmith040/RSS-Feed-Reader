@@ -4,7 +4,7 @@ This is a simple RSS feed reader that displays feed information in your terminal
 
 ## Usage
 
-To use the reader, simply run the `rss_reader.rb` file in your terminal. You will be prompted to enter the URL of the RSS feed you want to read. If you press Enter without entering a URL, the reader will use the default URL (<https://techcrunch.com/feed/>).
+To use the reader, simply run the `rss_feed.rb` file in your terminal. You will be prompted to enter the URL of the RSS feed you want to read. If you press Enter without entering a URL, the reader will use the default URL (<https://techcrunch.com/feed/>).
 
 The reader will then display the title and description of the feed, followed by a list of the entries in the feed. For each entry, the reader will display the published date, title, summary, and URL.
 
@@ -19,14 +19,14 @@ gem install feedjira
 gem install httparty
 ```
 
-Once you have Ruby and the required gems installed, you can download the `rss_reader.rb` file from this repository and run it in your terminal.
+Once you have Ruby and the required gems installed, you can download the `rss_feed.rb` file from this repository and run it in your terminal.
 
 ## Example
 
 Here's an example of the reader in action:
 
 ```Ruby
-$ ruby rss_reader.rb
+$ ruby rss_feed.rb
 Enter the URL of the RSS feed you want to read (or press Enter to use the default URL)
 https://www.nasa.gov/rss/dyn/breaking_news.rss
 Feed Title:
