@@ -73,4 +73,4 @@ https://www.nasa.gov/press-release/nasa-spacex-launch-ninth-batch-of-starlink-sa
 
 ## Credits
 
-This RSS reader was created by [Fafali].
+This RSS reader was created by Fafali (<jackysmith040@gmail.com>).
