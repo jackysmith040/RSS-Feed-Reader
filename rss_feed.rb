@@ -1,7 +1,6 @@
 # This is an RSS Feed in a terminal
 
 require 'feedjira'
-require 'open-uri'
 require 'httparty'
 
 default_url = "https://techcrunch.com/feed/"
